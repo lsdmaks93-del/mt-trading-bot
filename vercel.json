@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/trade.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
